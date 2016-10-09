@@ -1,0 +1,5 @@
+Pred_seq=./input/PreSeq.txt
+Pred_deg=./input/PreDeg.txt
+Exp_miRNA=./input/MirExp.txt
+Exp_mRNA=./input/MrnaExp.txt
+             
