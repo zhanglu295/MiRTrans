@@ -14,10 +14,10 @@ Four input files are required for detecting miRNA targets by MiRTrans，examples
 2. Sequence-based prediction: The union result combined from several sequence-based prediction software, such as PITA, TargetScan, psRNATarget etc. Two columns: miRNA name and transcript name with '\t' as delimiter.
 
 
-3. transcript expression: The mRNA expression matrix as (m+1)*(n+1), where m is the number of mRNA and n is the sample size, with one row header and one column with mRNA name.
+3. Transcript expression: The mRNA expression matrix as (m+1)*(n+1), where m is the number of mRNA and n is the sample size, with one row header and one column with mRNA name.
 
 
-4. microRNA expresssion:The microRNA expression matrix as (m+1)*(n+1), where m is the number of microRNA and n is the sample size, with one row header and one column with microRNA name.
+4. MiRNA expresssion:The microRNA expression matrix as (m+1)*(n+1), where m is the number of microRNA and n is the sample size, with one row header and one column with microRNA name.
 
 
 Run:
